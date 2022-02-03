@@ -1,0 +1,46 @@
+body
+{
+    background-image: url("Background.jpg");
+    background-size: cover;
+}
+
+h3
+{
+    color: aquamarine;
+    background-color: mediumseagreen;
+}
+
+#leftDisc
+{
+    float: left;
+}
+#rightDisc
+{
+    float: right;
+}
+
+footer
+{
+    position: fixed;
+    bottom: 0%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: #124E4E;
+    color: springgreen;
+    width: 100%;
+    font-size: 110%;
+    font: italic;
+}
+
+#play
+{
+    color: #701899;
+    background-color: #3a082d;
+    font: italic;
+}
+canvas
+{
+    border: cadetblue;
+    border-style: outset;
+    border-width: thick;
+}
